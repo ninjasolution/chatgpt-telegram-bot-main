@@ -6,7 +6,7 @@
 [![revChatGPT-version](https://img.shields.io/badge/revChatGPT-0.0.38.8-green.svg)](https://github.com/acheong08/ChatGPT)
 [![license](https://img.shields.io/badge/License-GPL%202.0-brightgreen.svg)](LICENSE)
 
-A [Telegram bot](https://core.telegram.org/bots/api) that integrates with OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/) to provide answers. Ready to use with minimal configuration required. Based on [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
+A [Telegram bot](https://core.telegram.org/bots/api) that integrates with OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/) to provide answers. Ready to use with minimal configuration required.
 
 ## Features
 - [x] Reply to specific messages
